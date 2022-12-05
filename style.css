@@ -1,0 +1,57 @@
+@font-face {
+    font-family: 'ALK Rounded Mtav Med';
+    
+    src:  url('../fonts/alk-rounded-mtav-med-webfont.woff2') format('woff2'); /* Super Modern Browsers */}
+        
+    @font-face {
+        font-family: 'ALK Rounded Nusx Med';
+        src: url('../fonts/alk-rounded-nusx-med-webfont.eot'); /* IE9 Compat Modes */
+        src: url('../fonts/alk-rounded-nusx-med-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+             url('../fonts/alk-rounded-nusx-med-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+             url('../fonts/alk-rounded-nusx-med-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+             url('../fonts/alk-rounded-nusx-med-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+             url('../fonts/alk-rounded-nusx-med-webfont.svg#alk_rounded_nusx_medregular') format('svg'); /* Legacy iOS */
+    }
+        
+.first-title{
+    text-align: center;
+    font-family: 'ALK Rounded Mtav Med';
+}
+.text1{
+    text-align: center;
+    width: 400px;
+    margin-left:420px;
+    font-family:'ALK Rounded Nusx Med'; 
+    border-style: ridge;
+    border-color: black;
+    
+
+}
+.second-title{
+    text-align: center;
+    margin-top: 50px;
+    font-family:'ALK Rounded Mtav Med' ;
+}
+.text2{
+text-align: center;
+width: 400px;
+margin-left:420px;
+font-family:'ALK Rounded Nusx Med'; 
+border-style: ridge;
+border-color: black;
+
+
+}
+.third-title{
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'ALK Rounded Mtav Med';
+}
+.text3{
+    text-align: center;
+    margin-left:420px;
+    width: 400px;
+    font-family:'ALK Rounded Nusx Med';
+    border-style: ridge;
+    border-color: black; 
+}
